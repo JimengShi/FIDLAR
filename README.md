@@ -3,11 +3,14 @@ This repository contains the source code and datasets for "FIDLAR: Forecast-Info
 
 ## Repository description
 - `data` folder includes data sets used
-- `model` folder includes models used
-- `training_mlp` folder includes training programs for all datasets. 
-- `postprocess` folder includes the programs for experiment results, visualization, and hyperparameter tuning.
-- `saved_models_mlp` folder saves all the trained models at the best checkpoint.
-- `saved_models_hyper` folder saves all the trained models while doing hyperparameter tuning for a major hyperparameter `number of frozen layers`.
+- `baseline` folder includes baseline models used
+- `model` folder includes our proposed models
+- `loss` folder includes loss functions used
+- `preprocess` folder includes data pre-processing
+- `postprocess` folder includes the programs for experiment results, visualization, and ablation study
+- `training_WaLeF_models` folder includes training programs for `Flood Evaluator` with all models
+- `training_optimization_models` folder includes training programs for `Flood Manager` with frozen `Flood Evaluator`
+
 
 ## Requirements
 ```bash
