@@ -21,5 +21,7 @@ pip3 install -r requirements.txt
 
 ## Running
 - Download the entire repository and install the required packages (see requirements above).
-- For training, go to the `training_mlp` folder and run cells in the `ipynb` files under each dataset.
+- For training,
+  - `Flood Evaluator`, go to the `training_WaLeF_models` folder and run cells in the `ipynb` files
+  - `Flood Manager`, go to the `training_optimization_models` folder and run cells in the `ipynb` files
 - For testing and experiment analysis, go to the `postprocess` folder and run cells in the `ipynb` files.
