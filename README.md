@@ -1,5 +1,4 @@
 # FIDLAR
-This repository contains the source code and datasets for "FIDLAR: Forecast-Informed Deep Learning Architecture for Flood Mitigation".
 
 ## Repository description
 - `data` folder includes data sets used
