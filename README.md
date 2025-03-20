@@ -1,5 +1,7 @@
 # FIDLAR
 
+Code for the paper "[FIDLAR: Forecast-Informed Deep Learning Approaches for Flood Mitigation](https://arxiv.org/abs/2402.13371)" accepted by AAAI'25.
+
 ## Repository description
 - `data` folder includes data sets used
 - `baseline` folder includes baseline models used
