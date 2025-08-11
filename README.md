@@ -28,6 +28,9 @@ pip3 install -r requirements.txt
 - For testing and experiment analysis, go to the `postprocess` folder and run cells in the `ipynb` files.
 
 ## Citation
+If you find this work interesting and useful, please cite our paper:
+
+```bibtex
 @inproceedings{shi2025fidlar,
   title={FIDLAR: Forecast-Informed Deep Learning Architecture for Flood Mitigation},
   author={Shi, Jimeng and Yin, Zeda and Leon, Arturo and Obeysekera, Jayantha and Narasimhan, Giri},
