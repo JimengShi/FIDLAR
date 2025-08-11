@@ -33,7 +33,7 @@ pip3 install -r requirements.txt
 - For testing and experiment analysis, go to the `postprocess` folder and run cells in the `ipynb` files.
 
 
-## Results
+## Main Results
 ### Flood Prediction
 <div align="left">
 <img src="https://github.com/JimengShi/FIDLAR/blob/main/figures/flood_prediction_results.png" alt="flood_prediction_results" width="1000"/> 
