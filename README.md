@@ -3,7 +3,7 @@
 Code for the paper "[FIDLAR: Forecast-Informed Deep Learning Approaches for Flood Mitigation](https://arxiv.org/abs/2402.13371)" accepted by AAAI'25.
 
 <div align="left">
-<img src="https://github.com/JimengShi/Hypercube-RAG/blob/main/figures/hypercube_rag.jpg" alt="hypercuberag" width="1000"/> 
+<img src="https://github.com/JimengShi/FIDLAR/blob/main/figures/fidlar_framework.jpg" alt="fidlar_framework" width="1000"/> 
 </div>
 
 ## Repository description
