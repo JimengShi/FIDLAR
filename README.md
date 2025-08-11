@@ -26,3 +26,14 @@ pip3 install -r requirements.txt
   - `Flood Evaluator`, go to the `training_WaLeF_models` folder and run cells in the `ipynb` files
   - `Flood Manager`, go to the `training_optimization_models` folder and run cells in the `ipynb` files
 - For testing and experiment analysis, go to the `postprocess` folder and run cells in the `ipynb` files.
+
+## Citation
+@inproceedings{shi2025fidlar,
+  title={FIDLAR: Forecast-Informed Deep Learning Architecture for Flood Mitigation},
+  author={Shi, Jimeng and Yin, Zeda and Leon, Arturo and Obeysekera, Jayantha and Narasimhan, Giri},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={27},
+  pages={28377--28385},
+  year={2025}
+}
