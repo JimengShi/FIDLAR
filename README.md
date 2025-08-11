@@ -24,12 +24,21 @@ conda activate env_name
 pip3 install -r requirements.txt
 ```
 
+
 ## Running
 - Download the entire repository and install the required packages (see requirements above).
 - For training,
   - `Flood Evaluator`, go to the `training_WaLeF_models` folder and run cells in the `ipynb` files
   - `Flood Manager`, go to the `training_optimization_models` folder and run cells in the `ipynb` files
 - For testing and experiment analysis, go to the `postprocess` folder and run cells in the `ipynb` files.
+
+
+## Results
+#### Flood Prediction
+<div align="left">
+<img src="https://github.com/JimengShi/FIDLAR/blob/main/figures/flood_prediction_results.png" alt="flood_prediction_results" width="1000"/> 
+</div>
+
 
 ## Citation
 If you find this work interesting and useful, please cite our paper:
