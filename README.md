@@ -34,10 +34,16 @@ pip3 install -r requirements.txt
 
 
 ## Results
-#### Flood Prediction
+### Flood Prediction
 <div align="left">
 <img src="https://github.com/JimengShi/FIDLAR/blob/main/figures/flood_prediction_results.png" alt="flood_prediction_results" width="1000"/> 
 </div>
+
+### Flood Mitigation
+<div align="left">
+<img src="https://github.com/JimengShi/FIDLAR/blob/main/figures/flood_mitigation_results.png" alt="flood_mitigation_results" width="1000"/> 
+</div>
+
 
 
 ## Citation
